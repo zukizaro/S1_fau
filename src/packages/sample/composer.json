@@ -1,0 +1,12 @@
+{
+    "name": "sample/afood",
+    "description": "Create sample for afood",
+    "license": "ptNhuan",
+    "authors": [
+        {
+            "name": "ptNhuan-DuongTM",
+            "email": "minhduong.zaro@gmail.com"
+        }
+    ],
+    "require": {}
+}
