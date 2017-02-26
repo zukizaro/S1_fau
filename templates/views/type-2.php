@@ -10,9 +10,9 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <link href="../css/bootstrap.css" rel="stylesheet" type="text/css"/>
+<!--        <link href="../css/bootstrap.css" rel="stylesheet" type="text/css"/>
         <script src="../js/jquery-1.11.0.min.js" type="text/javascript"></script>
-        <script src="../js/bootstrap.js" type="text/javascript"></script>
+        <script src="../js/bootstrap.js" type="text/javascript"></script>-->
 
         <?php
         if (!class_exists('lessc')) {

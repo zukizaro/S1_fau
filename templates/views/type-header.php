@@ -228,8 +228,7 @@ and open the template in the editor.
                     });
                 </script>
             </div>
-        </div>
-        <?php include './type-1.php'; ?>
+        </div> 
 
     </body>
 </html>

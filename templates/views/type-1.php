@@ -21,11 +21,13 @@ and open the template in the editor.
             $less = new lessc;
             $less->compileFile('../less/type-1.less', '../css/type-1.css');
         ?>
+
         <link href="../css/nivo-slider.css" rel="stylesheet" type="text/css"/>
         <link href="../css/type-1.css" rel="stylesheet" type="text/css"/>
         <script src="../js/jquery-migrate.min.js" type="text/javascript"></script>
         <script src="../js/jquery.nivo.slider.js" type="text/javascript"></script>
         <script type="text/javascript"> 
+            
             $(window).load(function () {
                 $('#slider_main').nivoSlider({
                     effect: 'random',
